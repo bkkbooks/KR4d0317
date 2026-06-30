@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0317/krp/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 方是閒居士小稿自記遊季仙來山中相訪索豫詩文不置口辭拒不能為檢尋舊唱和獨出一百首新作七十一首雜著二十七首詞四十一首集成兩編以酬其雅志豫語塵俗不足道季仙先世文學彰彰在人口而季仙伯仲詞翰又皆稱於朋儕今棄彼取此豈厭膏粱而思藜糗忘黃鐘而取瓦缶者乎因書其後而歸之嘉定丁丑重陽後十日種春子劉學箕習之父書於方是閒堂
+  hash: sha256:fe8fc666ce1253d2dd864371f9527cca70fd68b2a801a1bd7f7db4958a5533ec
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0317_WYG_004-1a, image: WYG1176/WYG1176-0623c.png}
+metadata:
+  title: 方是閒居士小稿
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:04:08.290988'
+  juan_title: 自記
+  source:
+    repository: kanripo
+    path: KR4d0317/KR4d0317_004.txt
+hash: sha256:b0fc7c1b93c9963bd70fe193244ac07ac404b1d7329952062aadb933104b663e
